@@ -1,4 +1,4 @@
-package launcher
+package ru.vladimirsofin.launcher
 
 import com.github.ajalt.mordant.TermColors
 import io.kotest.common.runBlocking

@@ -1,4 +1,4 @@
-package tests
+package ru.vladimirsofin.tests
 
 import io.kotest.core.spec.style.FunSpec
 import io.kotest.matchers.shouldBe

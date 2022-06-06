@@ -1,4 +1,4 @@
-package launcher
+package ru.vladimirsofin.launcher
 
 internal data class LauncherArgs(
    // A path to the test to execute. Nested tests will also be executed

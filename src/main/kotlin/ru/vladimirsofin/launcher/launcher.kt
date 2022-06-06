@@ -1,4 +1,4 @@
-package launcher
+package ru.vladimirsofin.launcher
 
 import io.kotest.core.TagExpression
 import io.kotest.core.descriptors.Descriptor
